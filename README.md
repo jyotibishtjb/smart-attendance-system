@@ -3,3 +3,5 @@ Designed and implemented a QR-Based Attendance project that enables efficient at
 Teaching organizations. 
 Generates attendance reports. 
 Developed using Python and its libraries.
+
+This Project is done by Jyoti Bisht
